@@ -10,5 +10,5 @@
   "scope" : "https://djblue.github.io/portal/",
   "start_url" : "https://djblue.github.io/portal/",
   "display" : "standalone",
-  "display_override" : [ "tabbed", "minimal-ui" ]
+  "display_override" : [ "minimal-ui" ]
 }
